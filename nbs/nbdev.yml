@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "onenote_LLM_interface"
+  site-url: "https://trangml.github.io/onenote_LLM_interface"
+  description: "Using LLMs to query class notes from onenote"
+  repo-branch: main
+  repo-url: "https://github.com/trangml/onenote_LLM_interface"
